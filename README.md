@@ -10,8 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0125-valid-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/2032-largest-odd-number-in-string) |
 # Greedy
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/2032-largest-odd-number-in-string) |
+# Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0125-valid-palindrome) |
