@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0009-palindrome-number) |
 | [2032-largest-odd-number-in-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/2032-largest-odd-number-in-string) |
 # String
 |  |
