@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [2032-largest-odd-number-in-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/2032-largest-odd-number-in-string) |
 # Greedy
 |  |
@@ -29,4 +30,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
+# Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
