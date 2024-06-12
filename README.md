@@ -26,13 +26,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 # Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 # Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
+# Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
