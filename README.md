@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/2876-number-of-employees-who-met-the-target) |
 # Sorting
 |  |
 | ------- |
