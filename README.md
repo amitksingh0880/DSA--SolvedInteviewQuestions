@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0066-plus-one) |
 | [2032-largest-odd-number-in-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/2032-largest-odd-number-in-string) |
 # String
 |  |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0066-plus-one) |
 | [0229-majority-element-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
