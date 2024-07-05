@@ -52,3 +52,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+<!---LeetCode Topics End-->
