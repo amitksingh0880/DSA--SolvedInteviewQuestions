@@ -76,4 +76,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
