@@ -115,4 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0102-binary-tree-level-order-traversal) |
+## Array
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0890-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
