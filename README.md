@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
+| [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0890-lemonade-change) |
+| [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
@@ -140,4 +142,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
