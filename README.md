@@ -72,10 +72,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -119,8 +121,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0890-lemonade-change) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0890-lemonade-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
