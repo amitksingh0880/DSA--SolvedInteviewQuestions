@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0890-lemonade-change](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
