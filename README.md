@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0067-add-binary) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
 | ------- |
