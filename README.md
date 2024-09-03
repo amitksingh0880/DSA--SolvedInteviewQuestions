@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0890-lemonade-change](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
