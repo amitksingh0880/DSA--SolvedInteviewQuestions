@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
@@ -184,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
