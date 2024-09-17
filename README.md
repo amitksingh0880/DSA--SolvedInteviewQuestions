@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0812-rotate-string) |
 ## Queue
 |  |
@@ -78,12 +80,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
@@ -167,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -175,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
