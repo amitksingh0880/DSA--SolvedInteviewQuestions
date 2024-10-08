@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0202-happy-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
