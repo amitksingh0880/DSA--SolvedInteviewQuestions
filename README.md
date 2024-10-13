@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0204-count-primes) |
 | [0890-lemonade-change](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0204-count-primes) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
@@ -217,4 +219,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
