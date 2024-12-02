@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0890-lemonade-change](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -229,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/amitksingh0880/Striverr-A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
